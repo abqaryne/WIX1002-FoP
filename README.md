@@ -7,10 +7,8 @@ Welcome to my repository for the Fundamental of Programming (FoP) course. This r
 
 This repository is organized into two main sections:
 
-/Tutorials: Contains all weekly tutorial sheets, code samples, and solutions discussed in class.
+'**T**': Contains all weekly **_tutorial_** sheets, code samples, and solutions discussed in class.
 
-/Lab: Contains all official lab assignments, starter code, and submission guidelines.
-
-📖 Assignments
+'**L**': Contains all official **_lab_** assignments, starter code, and submission guidelines.
 
 All assignments are organized by week.
